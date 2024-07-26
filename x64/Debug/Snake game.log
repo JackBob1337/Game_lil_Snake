@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main_menu.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main.cpp(24,5): warning C4273: 'GetScreenWidth': inconsistent dll linkage
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main.cpp(29,5): warning C4273: 'GetScreenHeight': inconsistent dll linkage
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main.cpp(68,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main.cpp(69,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main.cpp(118,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main.cpp(118,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main.cpp(123,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main.cpp(124,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  main_menu.cpp
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main_menu.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main_menu.cpp(4,12): warning C4273: 'GetScreenHeight': inconsistent dll linkage
+  Generating Code...
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main_menu.cpp(5,12): warning C4273: 'GetScreenWidth': inconsistent dll linkage
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main_menu.cpp(22,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main_menu.cpp(22,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main_menu.cpp(27,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\vyalk\Desktop\Snake\Snake game\Snake game\main_menu.cpp(27,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Snake game.vcxproj -> C:\Users\vyalk\Desktop\Snake\Snake game\x64\Debug\Snake game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
